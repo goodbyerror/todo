@@ -1,4 +1,3 @@
-import { check } from 'prettier';
 import styled from 'styled-components';
 
 const Circle = styled.div<{ checked?: boolean }>`
